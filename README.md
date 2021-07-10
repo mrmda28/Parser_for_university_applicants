@@ -1,4 +1,4 @@
-# Parser_for_university_applicants
+# Parser for university applicants
  Parser for HSE university applicants from the site and xlsx file.
 
 ## Getting Started
